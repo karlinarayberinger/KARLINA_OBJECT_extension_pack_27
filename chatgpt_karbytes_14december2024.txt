@@ -1,0 +1,33 @@
+/**
+ * file: chatgpt_karbytes_14december2024.txt
+ * type: plain-text
+ * date: 14_DECEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following set of instructions was copied from a conversation karbytes had with ChatGPT-4o output about how to install a program (on a desktop or laptop computer whose operating system is a distribution of Linux) which causes a cursor to jiggle periodically for an indefinitely large number of fixed-period cycles (which the program user inputs as a number of seconds).
+
+* * *
+
+keep-presence is a utility that moves the mouse or presses a key when it detects that you are away, preventing the system from going idle.
+
+Installation:
+
+Open a terminal.
+
+Install via Snap:
+
+[bash]
+
+sudo snap install keep-presence
+
+Usage:
+
+Run the program with a specified idle time (e.g., 30 seconds):
+
+[bash]
+
+keep-presence --seconds 30
+
+This command moves the mouse after 30 seconds of inactivity. 
