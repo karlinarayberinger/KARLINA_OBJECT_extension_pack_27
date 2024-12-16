@@ -1,12 +1,37 @@
 /**
  * file: chatgpt_karbytes_14december2024.txt
  * type: plain-text
- * date: 14_DECEMBER_2024
+ * date: 16_DECEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following set of instructions was copied from a conversation karbytes had with ChatGPT-4o output about how to install a program (on a desktop or laptop computer whose operating system is a distribution of Linux) which causes a cursor to jiggle periodically for an indefinitely large number of fixed-period cycles (which the program user inputs as a number of seconds).
+The following conversation snippet (which contains Linux command line instructions) was copied from a conversation karbytes had with ChatGPT-4o about how to install a program (on a desktop or laptop computer whose operating system is a distribution of Linux) which prevents the computer from entering sleep mode (which may cause background processes (such as running an Apache server instance to host an .onion web page from that machine (and/or running a Tor network server instance to make that .onion web page publicly accessible)) to terminate)).
+
+* * *
+
+karbytes:
+
+The keep-presence program I installed on my Ubuntu machine has not been working to keep my computer from going to sleep while I’m away from keyboard. Is there an alternative program which is also free to install but which actually prevents the computer from going into sleep mode?
+
+ChatGPT:
+
+Yes, there are several free and reliable alternatives to prevent your Ubuntu machine from going to sleep while you’re away from the keyboard. Here are a few options:
+
+1. Caffeine
+
+Description: Caffeine is a lightweight utility designed to prevent your computer from sleeping or activating the screensaver.
+
+Installation:
+
+sudo apt update
+sudo apt install caffeine
+
+Usage: Once installed, you can launch Caffeine from your applications menu. A coffee cup icon will appear in the system tray. Click it to toggle sleep prevention on or off.
+
+* * *
+
+The following set of instructions was copied from a conversation karbytes had with ChatGPT-4o about how to install a program (on a desktop or laptop computer whose operating system is a distribution of Linux) which causes a cursor to jiggle periodically for an indefinitely large number of fixed-period cycles (which the program user inputs as a number of seconds).
 
 * * *
 
@@ -30,4 +55,4 @@ Run the program with a specified idle time (e.g., 30 seconds):
 
 keep-presence --seconds 30
 
-This command moves the mouse after 30 seconds of inactivity. 
+This command moves the mouse after 30 seconds of inactivity.
