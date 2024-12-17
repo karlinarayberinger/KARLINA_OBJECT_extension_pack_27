@@ -1,14 +1,31 @@
 // journal_karbytes_16december2024.txt
 
-Order by which to (re) add web pages to Karbytes For Life Blog dot WordPress dot Com (on 01_JANUARY_2025):
+Order by which to (re) add (or modify) web pages in Karbytes For Life Blog dot WordPress dot Com (on 01_JANUARY_2025):
 
-1.
+WEB_PAGE_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_27.html
 
-2.
+WEB_PAGE_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_a_karbytes_content_management_policy.html
 
-3.
+WEB_PAGE_2: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_chatgpt_karbytes_14december2024.html
+
+WEB_PAGE_3: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_chatgpt_karbytes_16december2024.html
 
 * * *
 
 darknet server tests
 
+* * *
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/installing_tor_browser_on_hp_laptop_16december2024.jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/onion_availability_testing_16december2024_part_0.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/onion_availability_testing_16december2024_part_1.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/onion_availability_testing_16december2024_part_2.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/onion_availability_testing_16december2024_part_3.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/onion_availability_testing_16december2024_part_4.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/onion_server_running_with_ongoing_sounds_16dec2024.mp4
