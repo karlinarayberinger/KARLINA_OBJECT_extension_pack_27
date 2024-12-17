@@ -1,5 +1,11 @@
 // journal_karbytes_16december2024.txt
 
+* * * 
+
+01_JANUARY_2025 official new content launch
+
+* * *
+
 Order by which to (re) add (or modify) web pages in Karbytes For Life Blog dot WordPress dot Com (on 01_JANUARY_2025):
 
 WEB_PAGE_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_27.html
@@ -10,11 +16,19 @@ WEB_PAGE_2: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 WEB_PAGE_3: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_chatgpt_karbytes_16december2024.html
 
+(Between 11:59PM Pacific Standard Time on 14_DECEMBER_2024 and 11:59PM Pacific Standard Time on 31_DECEMBER_2024, karbytes added and edited files inside of the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_27 (but karbytes set that repository to private during the remaining five (or more) consecutive days of the year 2024)). 
+
+(Between 11:59PM Pacific Standard Time on 14_DECEMBER_2024 and 11:59PM Pacific Standard Time on 31_DECEMBER_2024, karbytes saved each of the files inside of the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_27 to the WayBack Machine at Archive dot Org at least one time).
+
+(In order to make the collection of public-domain and surface-web-hosted files named karbytes identical to the collection of zip files enumerated in the following web page at 12:00AM Pacific Standard Time on 01_JANUARY_2025, karbytes temporarily removed all of the web pages (whose Hyper-Text-Markup-Language (HTML) source code files were added to the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_27) from the public karbytes-created website named Karbytes For Life Blog dot WordPress dot Com (within five days of adding those web pages to that website between 11:59PM Pacific Standard Time on 14_DECEMBER_2024 and 11:59PM Pacific Standard Time on 31_DECEMBER_2024 (and after saving those web pages to the WayBack Machine at Archive dot Org))).
+
 * * *
 
 darknet server tests
 
 * * *
+
+On 16_DECEMBER_2024, karbytes implemented some tests to verify that karbytes' first .onion web page was publicly accessible (to the World Wide Web via The Onion Router (Tor) network) while being served from karbytes' Lenovo laptop in karbytes' closet (and while that laptop was connected to an electrical outlet in the wall and to the Wi-Fi network whose router was in the west corner of the encompassing house)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/installing_tor_browser_on_hp_laptop_16december2024.jpg
 
