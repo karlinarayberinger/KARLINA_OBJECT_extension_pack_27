@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-* * * 
+* * *
 
 01_JANUARY_2025 official new content launch
 
@@ -38,8 +38,7 @@ WEB_PAGE_10: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT
 
 WEB_PAGE_11: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/KARBYTES_FOR_LIFE_BLOG.html
 
-
-(Between 11:59PM Pacific Standard Time on 14_DECEMBER_2024 and 11:59PM Pacific Standard Time on 31_DECEMBER_2024, karbytes added and edited files inside of the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_27 (but karbytes set that repository to private during the remaining five (or more) consecutive days of the year 2024)). 
+(Between 11:59PM Pacific Standard Time on 14_DECEMBER_2024 and 11:59PM Pacific Standard Time on 31_DECEMBER_2024, karbytes added and edited files inside of the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_27 (but karbytes set that repository to private during the remaining five (or more) consecutive days of the year 2024)).
 
 (Between 11:59PM Pacific Standard Time on 14_DECEMBER_2024 and 11:59PM Pacific Standard Time on 31_DECEMBER_2024, karbytes saved each of the files inside of the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_27 to the WayBack Machine at Archive dot Org at least one time).
 
@@ -51,15 +50,15 @@ darknet server tests
 
 * * *
 
-On 16_DECEMBER_2024, karbytes implemented some tests to verify that karbytes' first .onion web page was publicly accessible (to the World Wide Web via The Onion Router (Tor) network) while being served from karbytes' Lenovo laptop in karbytes' closet (and while that laptop was connected to an electrical outlet in the wall of that closet's encompassing room and to the Wi-Fi network whose router was in the west-most corner of that room's encompassing house).
+On 16_DECEMBER_2024, karbytes implemented some tests to verify that karbytes’ first .onion web page was publicly accessible (to the World Wide Web via The Onion Router (Tor) network) while being served from karbytes’ Lenovo laptop in karbytes’ closet (and while that laptop was connected to an electrical outlet in the wall of that closet’s encompassing room and to the Wi-Fi network whose router was in the west-most corner of that room’s encompassing house).
 
-First karbytes overwrote the hard drive of karbytes' HP laptop computer with a fresh installation of Ubuntu from karbytes' bootable flash drive (which was configured by karbytes to allow users to test Ubuntu or to install Ubuntu). 
+First karbytes overwrote the hard drive of karbytes’ HP laptop computer with a fresh installation of Ubuntu from karbytes’ bootable flash drive (which was configured by karbytes to allow users to test Ubuntu or to install Ubuntu).
 
-Then karbytes installed the Tor browser on that HP laptop in order to visit karbytes' first .onion web page which is described in more detail at the following web page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_10december2024/
+Then karbytes installed the Tor browser on that HP laptop in order to visit karbytes’ first .onion web page which is described in more detail at the following web page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_10december2024/
 
-Finally, karbytes determined that the .onion web page was publicly accessible by testing the server-client connection from various remote Wi-Fi networks (namely the Peet's Coffee in Castro Valley, California and the Whole Foods Market in Dublin, California) on a server instance lasting more than seven hours (due to karbytes activating the Caffeine background application which prevents the computer from entering sleep mode even while that computer is left idle for an indefinitely long time period (and the details about how karbytes discovered, installed, and used that Caffeine application are available in the following web page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14december2024/)).
+Finally, karbytes determined that the .onion web page was publicly accessible by testing the server-client connection from various remote Wi-Fi networks (namely the Peet’s Coffee in Castro Valley, California and the Whole Foods Market in Dublin, California) on a server instance lasting more than seven hours (due to karbytes activating the Caffeine background application which prevents the computer from entering sleep mode even while that computer is left idle for an indefinitely long time period (and the details about how karbytes discovered, installed, and used that Caffeine application are available in the following web page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14december2024/)).
 
-(Note that karbytes turned on (and left on at a relatively low volume) an indefinitely-playing sound generator web page application at the following Uniform Resource Locator on the Lenovo laptop serving the .onion web page in order to signify that the server was turned on and not in sleep mode (which suggests that the .onion web page is accessible across the public World Wide Web)).
+(Note that karbytes turned on (and left on at a relatively low volume) an indefinitely-playing sound generator web page application at the following Uniform Resource Locator on the Lenovo laptop serving the .onion web page in order to signify that the server was turned on and not in sleep mode (which suggests that the .onion web page is accessible across the public World Wide Web): https://mynoise.net/NoiseMachines/isochronicBrainwaveGenerator.php).
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/installing_tor_browser_on_hp_laptop_16december2024.jpg
 
@@ -73,4 +72,4 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/onion_availability_testing_16december2024_part_4.mp4
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/onion_server_running_with_ongoing_sounds_16dec2024.mp4
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/onion_server_running_with_ongoing_sounds_16dec2024.mp4 
