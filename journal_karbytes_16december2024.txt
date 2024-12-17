@@ -30,7 +30,7 @@ WEB_PAGE_6: https://karbytessupporter.blogspot.com/2024/02/karbytessupporterdeve
 
 WEB_PAGE_7: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_mdisc_karbytes2025_0.html
 
-WEB_PAGE_8: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_preparing_to_make_mdisc_set_on_15december2024.html
+WEB_PAGE_8: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_preparing_to_make_mdisc_set_on_01january2025.html
 
 WEB_PAGE_9: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/KARBYTES_CODE_CONTINUES.html
 
