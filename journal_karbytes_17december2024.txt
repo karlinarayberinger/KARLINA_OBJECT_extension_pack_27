@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/
 
 The above .onion address points to a (temporary) dark web page which karbytes is (intermittently) hosting on its HP laptop during the time period spanning 17_DECEMBER_2024 at 2:00PM Pacific Standard Time and 31_DECEMBER_2024 at 11:59PM Pacific Standard Time.
 
@@ -14,7 +14,7 @@ http://ijnqld5dkly6cpvds37nap7n7n5f2tjc4e623b3x7dkzh563wpj6v4yd.onion/
 
 The above .onion address points to a (relatively) permanent dark web page which karbytes is (almost constantly) hosting on its Lenovo laptop during the time period spanning 17_DECEMBER_2024 at 2:00PM Pacific Standard Time and [UNDEFINED_DAY] at 11:59PM Pacific Standard Time.
 
-* * * 
+* * *
 
 What I am essentially doing (within the context of the subject matter presented in this journal entry web page) is creating a dark web mirror version of the karbytes-created GitHub repository at the following surface web address (during the time period spanning 17_DECEMBER_2024 at 2:00PM Pacific Standard Time and 31_DECEMBER_2024 at 11:59PM Pacific Standard Time):
 
