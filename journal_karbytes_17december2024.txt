@@ -19,3 +19,5 @@ The above .onion address points to a (relatively) permanent dark web page which 
 What I am essentially doing (within the context of the subject matter presented in this journal entry web page) is creating a dark web mirror version of the karbytes-created GitHub repository at the following surface web address (during the time period spanning 17_DECEMBER_2024 at 2:00PM Pacific Standard Time and 31_DECEMBER_2024 at 11:59PM Pacific Standard Time):
 
 https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/
+
+(The source code of the .onion web page which is (temporarily) being used to host a dark web “mirror” of the aforementioned GitHub repository (while that GitHub repository is not officially (and consistently) set to public (instead of to private)) which karbytes created on 17_DECEMBER_2024 is (or will eventually (or ideally) be permanently) available at the following public GitHub raw file web page: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_test_darknet_website_root_directory_web_page.html).
