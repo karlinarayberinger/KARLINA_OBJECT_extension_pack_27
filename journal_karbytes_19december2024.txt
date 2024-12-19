@@ -38,4 +38,8 @@ Lastly, karbytes shared the .onion web page address of the dark website referred
 
 future_permanent_(surface_web)_page_address: https://karbytesforlifeblog.wordpress.com/karbytes_social_media_posts_koep27/
 
-current_temporary_(dark_web)_page_address: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_extension_pack_27/unlisted_web_page_karbytes_social_media_posts_koep27.html 
+current_temporary_(dark_web)_page_address: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_extension_pack_27/unlisted_web_page_karbytes_social_media_posts_koep27.html
+
+* * *
+
+One Last Remark (to append to this note): I intend to keep the latest KARLINA_OBJECT_extension_pack_[nonnegative_integer] “micro directory” (and corresponding GitHub repository) backed up to and publicly available on my little dark web server on the aforementioned .onion website labeled B after 11:59PM Pacific Standard Time on 31_DECEMBER_2024. 
