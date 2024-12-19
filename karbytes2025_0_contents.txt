@@ -178,7 +178,7 @@ file_84: karbytes_basement_0-main.zip // 149.14 megabytes
 
 file_85: KARBYTES_JOURNAL_2022_PART_6-main.zip // 56.17 megabytes
 
-file_86: KARLINA_OBJECT_extension_pack_27-main_[undefined_day].zip // 115.96 megabytes
+file_86: KARLINA_OBJECT_extension_pack_27-main_[undefined_day].zip // 156.20 megabytes
 
 file_87: KARBYTES_JOURNAL_2023_PART_4-main.zip // 12.82 megabytes
 
@@ -246,6 +246,6 @@ file_117: INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW-main.zip // 211.70 megabytes
 
 Total number of files: 118
 
-Total folder size: 11438.81 megabytes
+Total folder size: 11479.04 megabytes
 
 --------------------------------
