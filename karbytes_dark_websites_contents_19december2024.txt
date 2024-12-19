@@ -1,0 +1,183 @@
+--------------------------------
+
+This Python program prints the names and file sizes (in megabytes) of each file inside of a particular folder.
+
+--------------------------------
+
+Directory: karbytes_dark_websites
+
+file_0: 000-default.conf // 0.00 megabytes
+
+Directory: karbytes_dark_websites/onion_site_B
+
+Directory: karbytes_dark_websites/onion_site_B/hidden_service_b
+
+file_1: hostname // 0.00 megabytes
+
+file_2: hs_ed25519_secret_key // 0.00 megabytes
+
+file_3: hs_ed25519_public_key // 0.00 megabytes
+
+Directory: karbytes_dark_websites/onion_site_B/hidden_service_b/authorized_clients
+
+Directory: karbytes_dark_websites/onion_site_B/html_b
+
+Directory: karbytes_dark_websites/onion_site_B/html_b/KARBYTES_NEW_YEAR_2025_TEST
+
+file_4: test_darknet_website_root_directory_web_page.html // 0.02 megabytes
+
+Directory: karbytes_dark_websites/onion_site_B/html_b/KARBYTES_NEW_YEAR_2025_TEST/KARLINA_OBJECT_extension_pack_27
+
+file_5: onion_availability_testing_16december2024_part_1.mp4 // 16.12 megabytes
+
+file_6: SOFTWARE_ENGINEERING_PORTFOLIO.html // 0.01 megabytes
+
+file_7: karbytes_little_dark_web_screenshot_18dec2024_p1.jpg // 0.49 megabytes
+
+file_8: onion_availability_testing_16december2024_part_3.mp4 // 12.51 megabytes
+
+file_9: karlina_object_updates.txt // 0.02 megabytes
+
+file_10: karbytes_little_dark_web_video_demo_18dec2024_p1.mp4 // 22.89 megabytes
+
+file_11: karbytes_little_dark_web_video_demo_18dec2024_p0.mp4 // 16.05 megabytes
+
+file_12: LICENSE // 0.00 megabytes
+
+file_13: unlisted_web_page_journal_karbytes_16december2024.html // 0.01 megabytes
+
+file_14: unlisted_web_page_journal_karbytes_17december2024.html // 0.00 megabytes
+
+file_15: unlisted_web_page_mdisc_karbytes2025_0.html // 0.04 megabytes
+
+file_16: dimensions_02_october_2019.jpg // 0.34 megabytes
+
+file_17: chatgpt_karbytes_14december2024.txt // 0.00 megabytes
+
+file_18: installing_tor_browser_on_hp_laptop_16december2024.jpg // 3.04 megabytes
+
+file_19: yellow_galaxy_drawing_icon_2020.png // 0.04 megabytes
+
+file_20: print_folder_contents.py // 0.00 megabytes
+
+file_21: karbytes_social_media_posts.txt // 0.05 megabytes
+
+file_22: karbytes_aesthetic.css // 0.00 megabytes
+
+file_23: karbytes_testosterone_updates.txt // 0.01 megabytes
+
+file_24: mdisc_karbytes_complete_set_30december2024.jpg // 3.42 megabytes
+
+file_25: KARBYTES_FOR_LIFE_BLOG.html // 0.01 megabytes
+
+file_26: onion_availability_testing_16december2024_part_2.mp4 // 12.27 megabytes
+
+file_27: KARBYTES_CODE_CONTINUES.html // 0.01 megabytes
+
+file_28: unlisted_web_page_a_karbytes_content_management_policy.html // 0.01 megabytes
+
+file_29: karlina_object_square_virus_logo.png // 0.52 megabytes
+
+file_30: journal_karbytes_16december2024.txt // 0.01 megabytes
+
+file_31: romanesco_broccoli_19_march_2021.jpeg // 0.19 megabytes
+
+file_32: test_folder_contents.txt // 0.00 megabytes
+
+file_33: unlisted_web_page_karbytes_first_onion_web_page.html // 0.01 megabytes
+
+file_34: unlisted_web_page_karbytessupporter_development_space_github_repository_raw_file_urls_list_(for_wayback_machine_saves).html // 0.04 megabytes
+
+file_35: unlisted_web_page_chatgpt_karbytes_16december2024.html // 0.02 megabytes
+
+file_36: wayback_machine_save_page_now_input_form_14_july_2023.png // 0.09 megabytes
+
+file_37: onion_availability_testing_16december2024_part_4.mp4 // 20.52 megabytes
+
+file_38: mdisc_karbytes2024_0_physical_copies_15dec2024.mp4 // 8.93 megabytes
+
+file_39: PRINT_FOLDER_CONTENTS.html // 0.01 megabytes
+
+file_40: RAW_GITHUB_FILES_MACRO_DIRECTORY.html // 0.03 megabytes
+
+file_41: raw_github_files_directory_KARLINA_OBJECT_extension_pack_27.html // 0.03 megabytes
+
+file_42: unlisted_web_page_chatgpt_karbytes_14december2024.html // 0.01 megabytes
+
+file_43: karlina_object_wordpress_logo_orange_box_drawing_2020.png // 0.61 megabytes
+
+file_44: chatgpt_karbytes_16december2024.txt // 0.02 megabytes
+
+file_45: unlisted_web_page_karbytes_social_media_posts_koep27.html // 0.07 megabytes
+
+file_46: unlisted_web_page_chatgpt_karbytes_15december2024.html // 0.01 megabytes
+
+file_47: multiple_onion_addresses_live_on_laptops_17dec2024.jpg // 3.02 megabytes
+
+file_48: a_karbytes_content_management_policy.txt // 0.00 megabytes
+
+file_49: KARLINA_OBJECT.html // 0.02 megabytes
+
+file_50: karbytes_little_dark_web_screenshot_18dec2024_p0.jpg // 0.49 megabytes
+
+file_51: onion_availability_testing_16december2024_part_0.mp4 // 21.70 megabytes
+
+file_52: onion_server_running_with_ongoing_sounds_16dec2024.mp4 // 3.79 megabytes
+
+file_53: mdisc_karbytes2024_0_physical_copies_15dec2024.jpg // 1.91 megabytes
+
+file_54: pi_approximation.js // 0.02 megabytes
+
+file_55: unlisted_web_page_preparing_to_make_mdisc_set_on_01january2025.html // 0.00 megabytes
+
+file_56: chatgpt_karbytes_15december2024.txt // 0.01 megabytes
+
+file_57: unlisted_web_page_KARBYTES_START_PAGE_IMAGES.html // 0.01 megabytes
+
+file_58: karbytes2025_0_contents.txt // 0.01 megabytes
+
+file_59: karbytes_for_life_blog_updates.txt // 0.09 megabytes
+
+file_60: installing_ubuntu_onto_hp_laptop_16dec2024.mp4 // 8.36 megabytes
+
+file_61: journal_karbytes_17december2024.txt // 0.00 megabytes
+
+file_62: karbytes_little_dark_web_screenshot_18dec2024_p2.jpg // 0.46 megabytes
+
+file_63: preparing_to_make_mdisc_set_on_01january2025.txt // 0.00 megabytes
+
+file_64: mdisc_karbytes2025_0.txt // 0.02 megabytes
+
+file_65: unlisted_web_page_test_darknet_website_root_directory_web_page.html // 0.02 megabytes
+
+Directory: karbytes_dark_websites/onion_site_A
+
+Directory: karbytes_dark_websites/onion_site_A/html_a
+
+file_66: karbytes_aesthetic.css // 0.00 megabytes
+
+file_67: beats_machine.html // 0.00 megabytes
+
+file_68: unlisted_web_page_karbytes_first_onion_web_page.html // 0.01 megabytes
+
+file_69: index.html // 0.01 megabytes
+
+file_70: pi_approximation.js // 0.02 megabytes
+
+Directory: karbytes_dark_websites/onion_site_A/hidden_service_a
+
+file_71: hostname // 0.00 megabytes
+
+file_72: hs_ed25519_secret_key // 0.00 megabytes
+
+file_73: hs_ed25519_public_key // 0.00 megabytes
+
+Directory: karbytes_dark_websites/onion_site_A/hidden_service_a/authorized_clients
+
+--------------------------------
+
+Total number of files: 74
+
+Total folder size: 158.50 megabytes
+
+--------------------------------
