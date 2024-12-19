@@ -1,0 +1,41 @@
+/**
+ * file: journal_karbytes_19december2024.txt
+ * type: plain-text
+ * date: 19_DECEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+This journal entry is a continuation of the journal entry named journal_karbytes_17december2024 at the following Uniform Resource Locators:
+
+future_permanent_(surface_web)_page_address: https://karbytesforlifeblog.wordpress.com/journal_karbytes_17december2024/
+
+current_temporary_(dark_web)_page_address: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_extension_pack_27/unlisted_web_page_journal_karbytes_17december2024.html
+
+* * *
+
+Between 10:00PM Pacific Standard Time on 18_DECEMBER_2024 and 5:00AM Pacific Standard Time on 19_DECEMBER_2024 karbytes migrated its second .onion website, B, from the (HP) laptop it was created on and originally hosted from to the (Lenovo) laptop on which karbytes’ first .onion website, A, was created and exclusively hosted from.
+
+A: http://ijnqld5dkly6cpvds37nap7n7n5f2tjc4e623b3x7dkzh563wpj6v4yd.onion/
+
+B: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/
+
+The Apache server configuration file was updated such that A and B could each be hosted from the same machine using different server ports and while retaining their original .onion web page addresses (and a copy of that configuration file is available at one or more of the following web addresses).
+
+future_permanent_(surface_web)_page_address: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/000-default.conf
+
+current_temporary_(dark_web)_page_address: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_extension_pack_27/000-default.conf
+
+(The Uniform Resource Locator of the “index.html” web page of a .onion website is located in that website’s respective host file in the “hidden_service” folder which uses the Tor network. The host and key files which each of the aforementioned .onion websites, A and B, require to be publicly accessible have been consolidated into a folder (which karbytes backed up to a private GitHub repository with the same name as that folder (and whose contents have been listed in the plain-text file output by the (modified) print_folder_contents.py Python program which karbytes wrote and showcased in the SOFTWARE_ENGINEERING_PORTFOLIO tutorial web page named PRINT_FOLDER_CONTENTS)). That output file is referenced by the following two Uniform Resource Locators).
+
+future_permanent_(surface_web)_page_address: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/karbytes_dark_websites_contents_19december2024.txt
+
+current_temporary_(dark_web)_page_address: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_extension_pack_27/karbytes_dark_websites_contents_19december2024.txt
+
+* * *
+
+Lastly, karbytes shared the .onion web page address of the dark website referred to in this journal entry as B on three of karbytes’ social media profiles (namely BlueSky dot Com, Twitter dot Com, and Minds dot Com) as described by the log file referenced by the following two Uniform Resource Locators.
+
+future_permanent_(surface_web)_page_address: https://karbytesforlifeblog.wordpress.com/karbytes_social_media_posts_koep27/
+
+current_temporary_(dark_web)_page_address: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARLINA_OBJECT_extension_pack_27/unlisted_web_page_karbytes_social_media_posts_koep27.html 
