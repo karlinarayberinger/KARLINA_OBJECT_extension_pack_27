@@ -1,0 +1,10 @@
+t
+
+
+// chatgpt_karbytes_19december2024.txt
+
+Approximately eight hours after I started hosting the two aforementioned .onion websites from the Tor and Apache services running on my Lenovo laptop computer, I noticed that B was reachable from my client (Samsung Galaxy phone) but, when I tried visiting A from that client computer, I encountered an error message suggesting A went offline. What would cause one .onion web page to go offline while another .onion web page hosted from the same machine remains online?
+
+How do I volunteer my machine to be a Tor network router?
+
+How is a client-server connection between a client computer using the Tor browser to browse the dark web established such that the client accesses a remote .onion page being hosted from a dark web server (especially given that the Tor network is allegedly decentralized and anonymized)? 
