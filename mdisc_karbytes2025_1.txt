@@ -1,18 +1,18 @@
 /**
  * file: mdisc_karbytes2025_1.txt
  * type: plain-text
- * date: 19_DECEMBER_2024
+ * date: 21_DECEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
 The following list of M_DISC contents encompass the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on [UNDEFINED_DAY] (and that specific file collection is named karbytes2025_1). 
 
-Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes2025_1.
+Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes2025_0.
 
-That entire aforementioned file collection named karbytes2025_1 is too large to fit on one 4.7 gigabyte M_DISC but small enough to fit on one 25 gigabyte M_DISC.
+That entire aforementioned file collection named karbytes2025_0 is too large to fit on one 4.7 gigabyte M_DISC but small enough to fit on one 25 gigabyte M_DISC.
 
-The total number of megabytes in the folder named karbytes2025_1 (which contains exclusively 119 zip files) was calculated using a small Python program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:
+The total number of megabytes in the folder named karbytes2025_0 (which contains exclusively 119 zip files) was calculated using a small Python program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:
 
 https://karbytesforlifeblog.wordpress.com/print_folder_contents
 
@@ -36,7 +36,7 @@ M_DISC 1 of 1 data collection size: approximately ??? gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2025_0: // folder contains exactly 119 files (approximately ??? megabytes total).
+karbytes2025_1: // folder contains exactly 119 files (approximately ??? megabytes total).
 
     - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
