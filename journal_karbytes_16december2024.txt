@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_16december2024.txt
  * type: plain-text
- * date: 20_DECEMBER_2024
+ * date: 21_DECEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -26,27 +26,31 @@ WEB_PAGE_4: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_
 
 WEB_PAGE_5: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_chatgpt_karbytes_19december2024.html
 
-WEB_PAGE_6: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_journal_karbytes_16december2024.html
+WEB_PAGE_6: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_chatgpt_karbytes_20december2024.html
 
-WEB_PAGE_7: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_journal_karbytes_17december2024.html
+WEB_PAGE_7: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_journal_karbytes_16december2024.html
 
-WEB_PAGE_8: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_journal_karbytes_19december2024.html
+WEB_PAGE_8: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_journal_karbytes_17december2024.html
 
-WEB_PAGE_9: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_journal_karbytes_20december2024.html
+WEB_PAGE_9: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_journal_karbytes_19december2024.html
 
-WEB_PAGE_10: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_karbytes_social_media_posts_koep27.html
+WEB_PAGE_10: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_journal_karbytes_20december2024.html
 
-WEB_PAGE_11: https://karbytessupporter.blogspot.com/2024/02/karbytessupporterdevelopmentspacegithub.html
+WEB_PAGE_11: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_journal_karbytes_21december2024.html
 
-WEB_PAGE_12: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_mdisc_karbytes2025_0.html
+WEB_PAGE_12: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_karbytes_social_media_posts_koep27.html
 
-WEB_PAGE_13: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_preparing_to_make_mdisc_set_on_01january2025.html
+WEB_PAGE_13: https://karbytessupporter.blogspot.com/2024/02/karbytessupporterdevelopmentspacegithub.html
 
-WEB_PAGE_14: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/KARBYTES_CODE_CONTINUES.html
+WEB_PAGE_14: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_mdisc_karbytes2025_0.html
 
-WEB_PAGE_15: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/RAW_GITHUB_FILES_MACRO_DIRECTORY.html
+WEB_PAGE_15: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_preparing_to_make_mdisc_set_on_01january2025.html
 
-WEB_PAGE_16: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/KARBYTES_FOR_LIFE_BLOG.html
+WEB_PAGE_16: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/KARBYTES_CODE_CONTINUES.html
+
+WEB_PAGE_17: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/RAW_GITHUB_FILES_MACRO_DIRECTORY.html
+
+WEB_PAGE_18: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/KARBYTES_FOR_LIFE_BLOG.html
 
 (Between 11:59PM Pacific Standard Time on 14_DECEMBER_2024 and 11:59PM Pacific Standard Time on 31_DECEMBER_2024, karbytes added and edited files inside of the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_27 (but karbytes set that repository to private during the remaining five (or more) consecutive days of the year 2024)).
 
