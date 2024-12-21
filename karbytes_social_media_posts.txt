@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 18_DECEMBER_2024
+ * date: 20_DECEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -706,7 +706,7 @@ https://karbytesforlifeblog.wordpress.com/journal_karbytes_10december2024/
 
 * * *
 
-On 12_DECEMBER_2024 at approximately 3:30AM Pacific Standard Time, karbytes shared the following web page application as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+On 12_DECEMBER_2024 at approximately 3:30AM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
 
 https://mynoise.net/NoiseMachines/isochronicBrainwaveGenerator.php
 
@@ -760,8 +760,12 @@ https://karbytesforlifeblog.wordpress.com/journal_karbytes_15december2024/
 
 * * *
 
-On 18_DECEMBER_2024 at approximately 4:00AM Pacific Standard Time, karbytes shared the following karbytes-created .onion web page address as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+On 20_DECEMBER_2024 at approximately 7:00PM Pacific Standard Time, karbytes shared the following video as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
 
-http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/
+video_title: "Is the Universe Infinite or Finite?"
 
-(The source code of the "index" page which that .onion address points to is available (or will be available (after 11:59PM Pacific Standard Time on 31_JANUARY_2024)) at the following surface web page address: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_test_darknet_website_root_directory_web_page.html).
+video_channel_title: "Sabine Hossenfelder"
+
+video_release_date: 30_NOVEMBER_2024
+
+video_url: https://www.youtube.com/watch?v=SEvs4zgVr0E
