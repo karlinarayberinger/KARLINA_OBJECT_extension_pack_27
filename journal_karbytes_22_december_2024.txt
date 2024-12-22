@@ -1,0 +1,19 @@
+// journal_karbytes_22_december_2024.txt 
+
+karbytes_0: "Would you be willing to undergo what you consider to be a series of unbarably painful experiences in order to attain immortality?"
+
+karbytes_1: "I think that it is likely that I would and, while I am, I would be having the thought that I would be rewarded with the state of being an everlasting conscious entity which would motivate me to endure the hardship with grit and determination."
+
+karbytes_0: "What if that series of painful experiences turned out to last for an infinitely long time (and you somehow became certain of that fact (and you also became certain of the fact that you would never be able to adapt to painful circumstances as time elapses from that point forward (which means that there would essentially be zero opportunity to attain even a modicum of relief from that unbarable pain)))?"
+
+karbytes_1: "I might conclude at that point of realization that my life would not be worth living given that I know for sure that I would be in excrutiating pain that (by definition of being literally unbarable for me to endure) would never cease nor become any easier for me to endure. That lack of a sense of hope that relief is on the horizon or that I have some means to mitigate my suffering would presumably cancel out any redeeming intrinsic value I could derive from my ongoing conscious existence."
+
+karbytes_0: "What would you do if you already found yourself undergoing the changes which make you immortal yet which force you to experience constant unbarable pain which you can never adapt to (and while you somehow became aware with absolute certainty that is the case)?"
+
+karbytes_1: "Ideally, I would swiftly move away from where I might hurt other people (in an incapacitated reckless stupor or in a perverse and deliberate manner (perhaps because I lose any incentive to want to spare other people pain while I know I will never be offered such mercy)). I doubt I would be able to do much other than writhe in agony for the remainder of my (infinitely long) existence. I would probably be moving restlessly or curled up in a ball most of the time and in too much pain to do anything I would normally partake in for me to either enjoy it or even have the capacity to do at all (though I idealize that I would try to do at least some of the things I presently enjoy and consider to be worthwhile)."
+
+karbytes_0: "Do you think that some people should be deliberately deprived of the capacity to attain relief from suffering?"
+
+karbytes_1: "Not for an indefinitely long time and not for a time which is any longer than necessary to deter that person from committing a seriously harmful action against people other than itself. What I meant to suggest is that I do not think it is ethically justified to forcibly subject any person, X, to intentionally prolonged suffering merely to punish X or so that people other than X can derive some kind of sadistic amusement from X being tortured against X's will. I only think that intentionally inflicting pain on someone is ethically justified if doing so is determined to be the most effective way to prevent the inflictee from committing seriously harmful actions against people other than the inflictee."
+
+karbytes: "What seems especially relevant to the conversation between karbytes_0 and karbytes_1 is the idea that an object's capacity to suffer is the most essential feature of that object which makes that object relevant in ethical discussions. In particular, an object's capacity to experience pain (whether that pain is physical or psychological) is what makes that object unconditionally worthy of being protected from suffering (to the fullest extent possible (and while respecting all other of such objects which are presumed to have the capacity to experience pain))."
