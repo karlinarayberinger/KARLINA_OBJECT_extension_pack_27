@@ -1,4 +1,4 @@
-// journal_karbytes_22_december_2024.txt 
+// journal_karbytes_22december2024.txt 
 
 karbytes_0: "Would you be willing to undergo what you consider to be a series of unbarably painful experiences in order to attain immortality?"
 
