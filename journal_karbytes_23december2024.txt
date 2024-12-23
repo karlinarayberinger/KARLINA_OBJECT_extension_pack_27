@@ -26,3 +26,11 @@ P.S. I know that publishing this note greatly decreases the likelihood that I wi
 I decided not to publish this note on the public web and decided instead to stuff it into an always private GitHub repository mainly because I do not think my dad is smoking in the house as much as he is (but sometimes I think he is "sneaking" cigarettes back into my living environment so that I just become acclimiated and I sense that there is something wrong with the air quality in my room because I have a sore throat and chest tightness here more than I do when I am seemingly most other places. Maybe, for that reason (i.e. that I am suspicious that my dad is "secretly" continuuing to bombard me with his cigarette smoke), I should just share this note on the public web and say nothing of it until someone other than me brings it to my attention.
 
 Lastly, I am not genuinely suicidal; at least not now. Instead, I am afraid that I am being pushed closer to feeling genuinely suicidal than I want to be by "circumstances" which are apparently mostly if not completely beyond my control. I also noticed that, the more I call attention to some "justice" issue which bother me, the more I seem to encounter hardships. If I seem to be acting more cowardly and self-censoring than usual, my fear of getting punished for going against the status quo could be the reason why. I also want to say that I do not particularly love people, but I do love their technology (which means I can "be friends with" people who are also genuinely passionate about technology (and who are similar enough to me in terms of ontology and ethics)).
+
+* * *
+
+The following image is a screenshot taken from the web page whose Uniform Resource Locator is below that image's Uniform Resource Locator:
+
+screenshot_of_web_page: https://affordablehousingonline.com/housing-waiting-lists/Section-8-Voucher/Oakland-California/96410
+
+web_page:
