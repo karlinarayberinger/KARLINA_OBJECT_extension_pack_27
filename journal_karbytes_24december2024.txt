@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 2. Modify the files which comprise B using the following Unix shell (i.e. bash) command to open the directory where those files are located on the server:
 
-sudo nautilus /var/www/html
+sudo nautilus /var/www/html_b
 
 3. Use the following bash commands to determine whether the services which connect B to the dark web (which is accessible via the Tor browser) are running and how long each of those services have been running:
 
