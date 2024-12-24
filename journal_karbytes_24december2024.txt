@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-The following is a series of "best practices" for karbytes to implement whenever karbytes hosts its two .onion websites (labeled A and B on this web page) from one of karbytes' computers (and, the time this document was written on 24_DECEMBER_2024, karbytes is hosting A and B from karbytes' Lenovo laptop which has a Ubuntu operating system).
+The following is a series of "best practices" for karbytes to implement whenever karbytes hosts its two .onion websites (labeled A and B on this web page) from one of karbytes' computers (and, ar the time this document was written on 24_DECEMBER_2024, karbytes is hosting A and B from karbytes' Lenovo laptop which has a Ubuntu operating system).
 
 * * *
 
