@@ -1,3 +1,11 @@
+/**
+ * file: journal_karbytes_24december2024.txt
+ * type: plain-text
+ * date: 24_DECEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
 The following is a series of "best practices" for karbytes to implement whenever karbytes hosts its two .onion websites (labeled A and B on this web page) from one of karbytes' computers (and, the time this document was written on 24_DECEMBER_2024, karbytes is hosting A and B from karbytes' Lenovo laptop which has a Ubuntu operating system).
 
 * * *
@@ -44,9 +52,23 @@ sudo iwconfig wlan0 power off
 
 * * *
 
-Relevant Resources on Karbytes For Life Blog dot WordPress dot Com
+Relevant Resources on Karbytes For Life Blog dot WordPress dot Com (listed in (index number) ascending order of importance)
 
-resource_0: https://karbytesforlifeblog.wordpress.com/karbytes_04_october_2024/
+resource_0: https://karbytesforlifeblog.wordpress.com/journal_karbytes_17december2024/
+
+resource_1: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_19december2024/
+
+resource_2: https://karbytesforlifeblog.wordpress.com/journal_karbytes_14december2024/
+
+resource_3: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22december2024/
+
+resource_4: https://karbytesforlifeblog.wordpress.com/karbytes_04_october_2024/
+
+resource_5: https://karbytesforlifeblog.wordpress.com/journal_karbytes_10december2024/
+
+resource_6: https://karbytesforlifeblog.wordpress.com/journal_karbytes_19december2024/
+
+resource_7: https://karbytesforlifeblog.wordpress.com/journal_karbytes_16december2024/
 
 * * *
 
