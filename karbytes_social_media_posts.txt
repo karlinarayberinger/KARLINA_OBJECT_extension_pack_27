@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 22_DECEMBER_2024
+ * date: 24_DECEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -760,9 +760,11 @@ https://karbytesforlifeblog.wordpress.com/journal_karbytes_15december2024/
 
 * * *
 
-On 18_DECEMBER_2024 at approximately 3:30AM Pacific Standard Time, karbytes shared the following karbytes-created text (which is the Uniform Resource Locator of an .onion web page) as a social media post on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+On 18_DECEMBER_2024 at approximately 4:00AM Pacific Standard Time, karbytes shared the following karbytes-created .onion web page address as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
 
 http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/
+
+(The source code of the "index" page which that .onion address points to is available (or will be available (after 11:59PM Pacific Standard Time on 31_DECEMBER_2024)) at the following surface web page address: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/unlisted_web_page_test_darknet_website_root_directory_web_page.html).
 
 * * *
 
@@ -781,6 +783,8 @@ video_url: https://www.youtube.com/watch?v=SEvs4zgVr0E
 On 21_DECEMBER_2024 at approximately 3:00AM Pacific Standard Time, karbytes shared the following web application as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
 
 https://mynoise.net/NoiseMachines/vintageOfficeNoiseGenerator.php
+
+(An MP4 file whose play duration is five minutes was created from the aforementioned noise generator web page using custom settings which karbytes selected and then ordered the respective MP3 of to download (and karbytes converveted that downloaed MP3 (audio) file into an MP4 (video) file so that the downloaded sound track (of "vintage office noises") can be saved to the WayBack Machine at Archive dot Org and uploaded that MP4 file to GitHub at the following Uniform Resource Locator: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/vintage_office_sounds_from_mynoise_dot_net_downloaded_by_karbytes_21december2024.mp4)).
 
 * * *
 
