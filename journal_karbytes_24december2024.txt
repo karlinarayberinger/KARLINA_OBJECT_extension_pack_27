@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_24december2024.txt
  * type: plain-text
- * date: 24_DECEMBER_2024
+ * date: 26_DECEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -27,44 +27,53 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 2. Modify the files which comprise B using the following Unix shell (i.e. bash) command to open the directory where those files are located on the server:
 
 sudo nautilus /var/www/html_b
+
 3. Use the following bash commands to determine whether the services which connect B to the dark web (which is accessible via the Tor browser) are running and how long each of those services has been running:
 
 sudo service tor status
+
 sudo service apache2 status
+
 4. Use the following bash commands to refresh the server as an alternative to restarting the computer:
 
 sudo service tor restart
+
 sudo service apache2 restart
+
 5. To prevent the server from going offline in order to conserve energy expenditure, run the following bash commands each time the server is (re)started (and that command turns off the Power Management settings which might cause the server to disconnect from the Wi-Fi network while running tor and apache2 services):
 
 iwconfig
+
 (The above command shows whether or not Power Management is turned on or off. That command also reveals what the Wi-Fi interface name is for the respective computer).
 
 sudo iwconfig wlan0 power off
+
 (The above command sets Power Management to off instead of on (and be sure to replace “wlan0” with your computer’s specific Wi-Fi interface name. At the time this document was created on 24_DECEMBER_2024, karbytes’ server’s Wi-Fi interface name is “wlp2s0”)).
 
 * * *
 
 Relevant Resources on Karbytes For Life Blog dot WordPress dot Com (listed in (index number) ascending order of importance)
 
-resource_0: https://karbytesforlifeblog.wordpress.com/journal_karbytes_17december2024/
+resource_0: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_25december2024/
 
-resource_1: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_19december2024/
+resource_1: https://karbytesforlifeblog.wordpress.com/journal_karbytes_17december2024/
 
-resource_2: https://karbytesforlifeblog.wordpress.com/journal_karbytes_14december2024/
+resource_2: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_19december2024/
 
-resource_3: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22december2024/
+resource_3: https://karbytesforlifeblog.wordpress.com/journal_karbytes_14december2024/
 
-resource_4: https://karbytesforlifeblog.wordpress.com/karbytes_04_october_2024/
+resource_4: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_22december2024/
 
-resource_5: https://karbytesforlifeblog.wordpress.com/journal_karbytes_10december2024/
+resource_5: https://karbytesforlifeblog.wordpress.com/karbytes_04_october_2024/
 
-resource_6: https://karbytesforlifeblog.wordpress.com/journal_karbytes_19december2024/
+resource_6: https://karbytesforlifeblog.wordpress.com/journal_karbytes_10december2024/
 
-resource_7: https://karbytesforlifeblog.wordpress.com/journal_karbytes_16december2024/
+resource_7: https://karbytesforlifeblog.wordpress.com/journal_karbytes_19december2024/
+
+resource_8: https://karbytesforlifeblog.wordpress.com/journal_karbytes_16december2024/
 
 * * *
 
 Warning:
 
-Sometimes characters become garbled (due to translation issues) in files which are hosted on karbytes’ dark web server. For example, specific types of apostrophe marks are replaced with instances of â€™. Fortunately, the official versions of those (karbytes) files are (a) hosted on the surface web instead of on a dark web server and (b) saved to the WayBack Machine at Archive dot Org.
+Sometimes characters become garbled (due to translation issues) in files which are hosted on karbytes’ dark web server. For example, specific types of apostrophe marks are replaced with instances of â€™. Fortunately, the official versions of those (karbytes) files are (a) hosted on the surface web instead of on a dark web server and (b) saved to the WayBack Machine at Archive dot Org. 
