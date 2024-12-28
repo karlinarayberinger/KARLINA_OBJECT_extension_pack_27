@@ -1,4 +1,3 @@
-
 /**
  * file: chatgpt_karbytes_25december2024.txt
  * type: plain-text
