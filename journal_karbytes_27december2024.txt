@@ -15,3 +15,29 @@ west : war : east : science_and_philosophy.
 // karbytes is not a child nor a chattel and karbytes is voluntarily single, celibate, and solitary (to the extent of being schizoidal). karbytes advocates for personal autonomy and better living through science and technology for all.
 
 // I understand that faith (i.e. assuming reality operates in any particular way instead of in some other way) is something I am required to participate in having whether I know it or not (provided I am conscious and intelligent enough to exhibit what is deemed by other sufficiently intelligent information processing agents (SIIPA) to be an irreducibly small and singular (non-overlapping) unique instance of SIIPA. I can say I have faith in karbytes (i.e. that karbytes practices "law of attraction" as a means to the end of karbytes maximizing karbytes' successful attainment of karbytes' authentically desired (by karbytes) goals).
+
+* * *
+
+This file was deliberately left only as a plain-text file rather than also made into a corresponding HTML file (with "key words" in the plain-text file converted into hypertext to relevant web-hosted files and with a meta data "header" visibly on the web page of that HTML file). 
+
+I did not want to give myself too much "busy work" to do in terms of augmenting the dark web server (which I was able to add this plain-text file (named journal_karbytes_27december2024.txt) to using the following bash command (and I know it is discouraged to share the SSH .onion address (which facilitates the file transfer from the remote laptop which I am using to write this text on at while sitting in a cafe in Dublin, California to the home-based .onion server laptop in my closet which hosts the web pages whose root directories are labeled A and B on this page)).
+
+torsocks scp -r ~/Desktop/journal_karbytes_27december2024.txt karbytes@[address_portion_censored_for_security].onion:/var/www/html_b/KARBYTES_NEW_YEAR_2025_TEST/
+
+The laptop which I am using in Dublin is named karbytes-HP-Laptop-14-dk1xxx.
+
+The laptop in my closet which hosts the .onion websites labeled A and B is named karbytes-IdeaPad-1-15IAU7.
+
+(Though I know it is discouraged to share this .onion address, I decied to anyway because I think the chances of someone using it other than me is very small and, also, it is nice to provide an example of what a working bash command looks like which makes "real world" transfers and I might want to lazily copy that command from a backed up version of this web page on the WayBack Machine at Archive dot Org).
+
+(The previous paragraph (i.e. line) is redacted after adding this line to this file. I censored out the alpha-numeric sequence preceding the ".onion" part of the SSH connection routing .onion address).
+
+A: http://ijnqld5dkly6cpvds37nap7n7n5f2tjc4e623b3x7dkzh563wpj6v4yd.onion/
+
+B: http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/
+
+Key Points:
+
+I was able to successfully transfer (an older version) of this file (named journal_karbytes_27december2024.txt) from the laptop named karbytes-HP-Laptop-14-dk1xxx (in Dublin, Califorinia) to the laptop named karbytes-IdeaPad-1-15IAU7 (in Castro Valley, California).
+
+The laptop named karbytes-IdeaPad-1-15IAU7 hosts the aforementioned websites whose .onion web addresses are labeled A and B in this file (and I have been attempting to leave that laptop perpetually on for as long as possible).
