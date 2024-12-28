@@ -1,4 +1,10 @@
-// chatgpt_karbytes_29december2024.txt
+/**
+ * file: chatgpt_karbytes_29december2024.txt
+ * type: plain-text
+ * date: 28_DECEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 karbytes:
 
