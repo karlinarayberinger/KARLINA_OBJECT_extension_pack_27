@@ -51,13 +51,16 @@ def monte_carlo_simulation():
             total_darts = red_count + blue_count
             pi_approximation = 4 * (red_count / total_darts)
             
+            # Convert the result to a string and strip unnecessary trailing zeros
+            pi_approximation_str = f"{pi_approximation:.100f}".rstrip('0').rstrip('.')
+
             # Prepare the output string.
             output = (
                 f"------------------------------------\n"
                 f"seconds_elapsed: {total_darts}\n"
                 f"red_dot_count: {red_count}\n"
                 f"blue_dot_count: {blue_count}\n"
-                f"pi_approximation: {pi_approximation:.10f}\n"
+                f"Pi approximation: {pi_approximation_str}\n"
                 f"------------------------------------\n"
             )
             
