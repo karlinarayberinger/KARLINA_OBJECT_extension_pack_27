@@ -213,7 +213,7 @@ function update_pi_approximation() {
 		blue_pixel_count = get_blue_pixel_count();
 		pi_approximation_span = document.getElementById("pi_approximation_span");
 		pi_approximation = (4 * (red_pixel_count / (red_pixel_count + blue_pixel_count)));
-		pi_approximation_span.innerHTML = pi_approximation;
+		pi_approximation_span.innerHTML = pi_approximation.toPrecision(50); // sets output display value to 50 digits of precision
 	}
 	catch(exception) {
 		console.log("An exception to expected functioning occurred in update_pi_approximation(): " + exception);
