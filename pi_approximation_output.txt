@@ -1,8 +1,8 @@
 ------------------------------------
-seconds_elapsed: 8
-red_dot_count: 4
-blue_dot_count: 4
-pi_approximation: 2.0000000000
+seconds_elapsed: 191
+red_dot_count: 146
+blue_dot_count: 45
+pi_approximation: 3.0575916230
 ------------------------------------
 
 The simulation stopped by the user.
