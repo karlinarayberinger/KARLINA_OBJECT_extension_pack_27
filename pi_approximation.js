@@ -408,7 +408,7 @@ function hide_start_button() {
 }
 
 /**
- * Make the START button visible as soon as the RESET button is clicked.
+ * Make the START button visible as soon as the RESET button is clicked or after the web page is loaded by the web browser.
  * 
  * Assume that this function is called in response to the RESET button being clicked.
  */
@@ -436,8 +436,7 @@ function hide_reset_button() {
 }
 
 /**
- * Make the RESET button visible as soon as the 3600 timed Monte Carlo dart-throwing simulation starts.
- * Assume that this function is called in response to the START button being clicked.
+ * Make the RESET button visible as soon as the 3600 timed Monte Carlo dart-throwing simulation finishes.
  */
 function unhide_reset_button() {
     try {
@@ -537,13 +536,12 @@ function plot_random_pixel_on_square_canvas(simulation) {
  * Use the setInterval function to space plot_random_pixel_on_square_canvas(simulation) function calls apart by one second.
  */
 function start_monte_carlo_simulation() {
-    const time_point = Date.now(), p0 = '<' + 'p' + '>', p1 = '<' + '/' + 'p' + '>';
-    let simulation; // timer interval handler
-    const message = "The Monte Carlo simulation started at time: " + time_point + " milliseconds since 01_JANUARY_1970 00:00:00 (Coordinated Universal Time (UTC)).";
-    console.log(message);
-    document.getElementById("timestamped_events_log").innerHTML += p0 + message + p1;
-    initialize_application();
-    hide_start_button();
-    unhide_reset_button()
-    simulation = setInterval( function() { plot_random_pixel_on_square_canvas(simulation); }, 1000); // The plot_random_pixel_on_square_canvas(simulation) function is called once every 1000 milliseconds until the timer interval is cleared.
+	const time_point = Date.now(), p0 = '', p1 = '';
+	let simulation; // timer interval handler
+	const message = "The Monte Carlo simulation started at time: " + time_point + " milliseconds since 01_JANUARY_1970 00:00:00 (Coordinated Universal Time (UTC)).";
+	console.log(message);
+	document.getElementById("timestamped_events_log").innerHTML += p0 + message + p1;
+	initialize_application();
+	hide_start_button();
+	simulation = setInterval( function() { plot_random_pixel_on_square_canvas(simulation); }, 1000); // The plot_random_pixel_on_square_canvas(simulation) function is called once every 1000 milliseconds until the timer interval is cleared.
 }
