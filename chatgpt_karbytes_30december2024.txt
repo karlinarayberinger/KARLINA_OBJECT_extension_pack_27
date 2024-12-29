@@ -472,3 +472,289 @@ Benefits:
     Efficient Logging: Eliminates the need to manage large files while still retaining the most recent simulation state.
 
 This approach is ideal if you want to conserve memory and disk space while still maintaining a snapshot of the simulation for reference.
+You said:
+How do I increase the number of digits to include in pi_approximation?
+ChatGPT said:
+ChatGPT
+
+To increase the number of digits displayed in the pi_approximation value, you simply need to modify the formatting of the output. Python's string formatting allows you to specify the number of decimal places.
+
+Here's the relevant part of the code updated to include more digits (e.g., 20 digits):
+
+# Calculate Pi approximation
+pi_approximation = 4 * (red_count / total_darts)
+
+# Prepare the output string with more digits
+output = (
+    f"Seconds elapsed: {total_darts}\n"
+    f"Red count: {red_count}\n"
+    f"Blue count: {blue_count}\n"
+    f"Pi approximation: {pi_approximation:.20f}\n"  # Display 20 decimal places
+)
+
+Explanation:
+
+    :.20f: This specifies that the floating-point number should be displayed with 20 digits after the decimal point.
+    You can adjust the 20 to any other number based on how many digits you want.
+
+Full Updated Example:
+
+Here’s the updated function incorporating the change:
+
+import random
+import time
+
+def is_in_circle(x, y, radius):
+    """Check if a point (x, y) lies within a circle of given radius centered at (0, 0)."""
+    return x**2 + y**2 <= radius**2
+
+def monte_carlo_simulation():
+    """Run the Monte Carlo simulation indefinitely, overwriting the log file with the latest snapshot."""
+    red_count = 0
+    blue_count = 0
+    radius = 200  # Equivalent to half the canvas size in pixels
+    output_file = "pi_approximation_output.txt"
+    
+    print("Monte Carlo Simulation for Approximating Pi")
+    print("-" * 50)
+    
+    try:
+        while True:
+            # Generate a random point in the square
+            x = random.uniform(-radius, radius)
+            y = random.uniform(-radius, radius)
+            
+            # Check if the point lies in the circle
+            if is_in_circle(x, y, radius):
+                red_count += 1
+            else:
+                blue_count += 1
+            
+            # Calculate Pi approximation
+            total_darts = red_count + blue_count
+            pi_approximation = 4 * (red_count / total_darts)
+            
+            # Prepare the output string with more precision
+            output = (
+                f"Seconds elapsed: {total_darts}\n"
+                f"Red count: {red_count}\n"
+                f"Blue count: {blue_count}\n"
+                f"Pi approximation: {pi_approximation:.20f}\n"  # 20 decimal places
+            )
+            
+            # Print to console
+            print(output, end="")
+            
+            # Overwrite the file with the latest snapshot
+            with open(output_file, "w") as file:
+                file.write(output)
+            
+            time.sleep(1)  # Wait for 1 second
+    except KeyboardInterrupt:
+        final_message = "\nSimulation stopped by the user.\n"
+        print(final_message)
+        with open(output_file, "a") as file:
+            file.write(final_message)
+        print(f"Snapshot saved to {output_file}. Goodbye!")
+
+if __name__ == "__main__":
+    monte_carlo_simulation()
+
+Customizing Precision:
+
+    Change the 20 in :.20f to your desired number of decimal places.
+    Be aware that increasing the number of decimal places significantly (e.g., >50) may make the simulation seem less precise over short runtimes, as the Monte Carlo method converges slowly to the actual value of Pi.
+
+You said:
+I noticed trailing zeros (to the right of all significant digits) even though I set the digit number to 100. 
+ChatGPT said:
+ChatGPT
+
+Trailing zeros in the output occur because Python's formatted floating-point values (f format) display the number with a fixed number of decimal places, regardless of whether the digits are significant.
+
+To remove the trailing zeros and display only significant digits up to the precision you've calculated, you can convert the float result to a str. Here's how to adjust the formatting:
+Updated Code for Removing Trailing Zeros
+
+# Calculate Pi approximation
+pi_approximation = 4 * (red_count / total_darts)
+
+# Convert the result to a string and strip unnecessary trailing zeros
+pi_approximation_str = f"{pi_approximation:.100f}".rstrip('0').rstrip('.')
+
+# Prepare the output string with significant digits only
+output = (
+    f"Seconds elapsed: {total_darts}\n"
+    f"Red count: {red_count}\n"
+    f"Blue count: {blue_count}\n"
+    f"Pi approximation: {pi_approximation_str}\n"
+)
+
+Explanation:
+
+    f"{pi_approximation:.100f}":
+        Formats the number to 100 decimal places.
+    .rstrip('0'):
+        Removes trailing zeros from the string representation.
+    .rstrip('.'):
+        If the number is an integer (e.g., 3.0), this removes the trailing decimal point.
+
+Updated Function Example
+
+Here’s the updated part of the simulation:
+
+try:
+    while True:
+        # Generate a random point in the square
+        x = random.uniform(-radius, radius)
+        y = random.uniform(-radius, radius)
+        
+        # Check if the point lies in the circle
+        if is_in_circle(x, y, radius):
+            red_count += 1
+        else:
+            blue_count += 1
+        
+        # Calculate Pi approximation
+        total_darts = red_count + blue_count
+        pi_approximation = 4 * (red_count / total_darts)
+        
+        # Convert to string and strip trailing zeros
+        pi_approximation_str = f"{pi_approximation:.100f}".rstrip('0').rstrip('.')
+        
+        # Prepare the output string
+        output = (
+            f"Seconds elapsed: {total_darts}\n"
+            f"Red count: {red_count}\n"
+            f"Blue count: {blue_count}\n"
+            f"Pi approximation: {pi_approximation_str}\n"
+        )
+        
+        # Print to console
+        print(output, end="")
+        
+        # Overwrite the file with the latest snapshot
+        with open(output_file, "w") as file:
+            file.write(output)
+        
+        time.sleep(1)  # Wait for 1 second
+except KeyboardInterrupt:
+    final_message = "\nSimulation stopped by the user.\n"
+    print(final_message)
+    with open(output_file, "a") as file:
+        file.write(final_message)
+    print(f"Snapshot saved to {output_file}. Goodbye!")
+
+Benefits:
+
+    No Trailing Zeros: The output will only include significant digits, making it cleaner and easier to read.
+    Flexible Precision: Adjust the precision in f"{pi_approximation:.100f}" without worrying about unnecessary zeros.
+
+Example Output:
+
+For a pi_approximation value of 3.140000000000000000000000, the output will now correctly show:
+
+Pi approximation: 3.14
+
+For a more precise value, such as 3.14159265358979323846264338327950288419716939937510, it will show:
+
+Pi approximation: 3.1415926535897932384626433832795028841971693993751
+
+You said:
+What is the maximum number of digits I could do meaningfully?
+ChatGPT said:
+ChatGPT
+
+The maximum number of meaningful digits for approximating Pi in your Monte Carlo simulation depends on several factors:
+1. Precision of Floating-Point Arithmetic:
+
+    Python's float type uses double-precision floating-point numbers (64-bit IEEE 754 standard). This provides approximately 15–17 significant decimal digits of precision.
+    Beyond 17 digits, floating-point rounding errors make additional digits meaningless.
+
+2. Monte Carlo Method Convergence:
+
+    The Monte Carlo method's precision depends on the number of points simulated. The approximation's accuracy improves as the number of points grows, but it converges slowly:
+        With NN random points, the standard error scales as 1/N1/N
+
+        ​. For example:
+            10,000 points → ~2 digits of precision.
+            1,000,000 points → ~3 digits of precision.
+            1 billion points → ~5 digits of precision.
+
+    To meaningfully calculate Pi to 100 digits using Monte Carlo, you’d need on the order of 1020010200 points, which is computationally infeasible.
+
+3. Arbitrary Precision Libraries:
+
+    Python's float cannot go beyond 17 significant digits, but libraries like decimal or mpmath allow for arbitrary precision arithmetic.
+    Even with these libraries, Monte Carlo simulations won’t converge meaningfully to 100 digits unless you generate a prohibitively large number of points.
+
+Practical Recommendations:
+
+    For the Monte Carlo simulation, 15-17 significant digits (default Python float precision) is the practical limit.
+    If you need higher precision for educational purposes or to experiment with Pi, consider using mathematical formulas (e.g., the Chudnovsky algorithm) designed to calculate Pi efficiently to millions of digits.
+
+Code Example for Setting Float Precision:
+
+If you're using decimal for higher precision, here's how to set it:
+
+from decimal import Decimal, getcontext
+import random
+
+# Set precision
+getcontext().prec = 50  # Example: 50 decimal places
+
+# Calculate Pi using Decimal for better precision
+red_count = 100000
+blue_count = 75000
+total_darts = red_count + blue_count
+pi_approximation = Decimal(4) * (Decimal(red_count) / Decimal(total_darts))
+print(f"Pi approximation: {pi_approximation}")
+
+For Monte Carlo, this doesn’t increase meaningful precision due to the slow convergence of the method. Use it only if you’re explicitly experimenting with higher precision output.
+You said:
+Is 17 the maximum number of meaningful digits pi_approximate could represent?
+ChatGPT said:
+ChatGPT
+
+Yes, 17 significant digits is the practical maximum for meaningful digits that a floating-point number in Python (float) can represent when approximating ππ. Here’s why:
+1. Floating-Point Precision (IEEE 754)
+
+Python’s float type is based on the 64-bit IEEE 754 double-precision standard, which provides:
+
+    53 bits of precision for the significand (mantissa).
+    This translates to approximately 15–17 significant decimal digits of precision.
+
+If you attempt to display more than 17 digits, the additional digits are unreliable and consist of floating-point rounding artifacts.
+2. Monte Carlo Limitations
+
+For a Monte Carlo simulation:
+
+    The method inherently converges slowly, so the number of meaningful digits depends on the number of darts thrown.
+    For most practical simulations:
+        1 million darts → ~3 accurate digits.
+        1 billion darts → ~5 accurate digits.
+        Achieving 17 meaningful digits would require throwing an astronomical number of darts (10341034), which is computationally infeasible.
+
+Thus, even though floating-point precision allows for 17 digits, the simulation itself won’t provide anywhere near this accuracy unless you simulate an extraordinary number of darts.
+3. Decimal vs. Float
+
+If you need more digits (beyond 17), you can use Python’s decimal module or external libraries like mpmath to perform calculations with arbitrary precision. However, this doesn’t make the Monte Carlo method itself more precise—it simply allows you to calculate and display extra digits if the method were accurate enough.
+
+Example using decimal:
+
+from decimal import Decimal, getcontext
+
+# Set arbitrary precision
+getcontext().prec = 50  # 50 significant digits
+
+# Example computation
+red_count = 1000000
+blue_count = 750000
+total_darts = red_count + blue_count
+pi_approximation = Decimal(4) * (Decimal(red_count) / Decimal(total_darts))
+print(f"Pi approximation: {pi_approximation}")
+
+Summary
+
+    For floating-point (float) numbers, 17 digits is the maximum meaningful precision.
+    For the Monte Carlo method, you’ll rarely achieve even 5 digits of precision unless you throw billions of darts.
+    Use a mathematical formula (e.g., Chudnovsky algorithm) if you need highly accurate approximations of ππ. Monte Carlo is great for learning and visualization but inefficient for high-precision results.
