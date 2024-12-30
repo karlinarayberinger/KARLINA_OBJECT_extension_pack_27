@@ -1,4 +1,16 @@
-// chatgpt_karbytes_30december2024.txt
+/**
+ * file: chatgpt_karbytes_30december2024.txt
+ * type: plain-text
+ * date: 29_DECEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text conversation transcript from a chatbot session established between karbytes and ChatGPT-4o on 29_DECEMBER_2024 at approximately 3:00PM Pacific Standard Time. The conversation pertains to karbytes requesting to have a plain-text command line (Python) version of the (JavaScript) web application featured on the following web page (which uses a second-by-second "random" dart throwing simulation to approximate the number Pi): 
+
+https://karbytesforlifeblog.wordpress.com/pi_approximation_two/
+
+* * *
 
 karbytes:
 
