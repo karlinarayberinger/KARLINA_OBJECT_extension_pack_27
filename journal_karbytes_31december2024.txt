@@ -1,14 +1,10 @@
-t
-
-Coffee beans
-
-Sharpie markers
-
-Weed cartridges 
-
-USB flash drives 
-
-* * *
+/**
+ * file: journal_karbytes_31december2024.txt
+ * type: plain-text
+ * date: 31_DECEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 The following "plans" each specify a particular frequency at which karbytes voluntarily makes changes to any of its social media profiles (especially in the form of publishing new social media posts which feature karbytes-created content).
 
