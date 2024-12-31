@@ -1,10 +1,20 @@
 /**
- * file: journal_karbytes_31december2024.txt
+ * file: journal_karbytes_30december2024.txt
  * type: plain-text
- * date: 29_DECEMBER_2024
+ * date: 31_DECEMBER_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
+
+31_DECEMBER_2024: The following section of this note (beneath the line consisting of three asterisks separated by a single space and with neither leading nor trailing spaces) was written on 29_DECEMBER_2024 and was merely written in order to help karbytes organize its cognitive resources (and other resources) in order to make an indefinitely-running simulation which generates second-by-second snapshots of a Monte Carlo dart-throwing simulation which approximates the value of Pi as a ratio of dots plotted inside of a circle and dots plotted on the square canvas in which that circle is inscribed overall. Three different versions of that application are available at the following Uniform Resource Locators (URL).
+
+URL_0: https://karlinaobject.wordpress.com/pi_approximation/
+
+URL_1: https://karlinaobject.wordpress.com/pi_approximation_two/
+
+URL_2: https://karlinaobject.wordpress.com/pi_approximation_three/
+
+* * *
 
 1. Rewrite the karbytes-created Pi approximation application such that the simulation runtime goes on indefinitely instead of only for a selected finite amount of time. 
 
