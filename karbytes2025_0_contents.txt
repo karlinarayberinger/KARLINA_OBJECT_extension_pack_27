@@ -74,45 +74,45 @@ file_32: KARBYTES_JOURNAL_2023_PART_27-main.zip // 55.62 megabytes
 
 file_33: KARLINA_OBJECT_extension_pack_12-main.zip // 32.70 megabytes
 
-file_34: RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // 0.27 megabytes
+file_34: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.47 megabytes
 
-file_35: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.47 megabytes
+file_35: KARBYTES_JOURNAL_2022_PART_16D-main.zip // 215.54 megabytes
 
-file_36: KARBYTES_JOURNAL_2022_PART_16D-main.zip // 215.54 megabytes
+file_36: KARLINA_OBJECT_extension_pack_2-main.zip // 124.29 megabytes
 
-file_37: KARLINA_OBJECT_extension_pack_2-main.zip // 124.29 megabytes
+file_37: INSTAGRAM_KARBYTES_2024-main.zip // 317.29 megabytes
 
-file_38: INSTAGRAM_KARBYTES_2024-main.zip // 317.29 megabytes
+file_38: KARBYTES_JOURNAL_2023_PART_23-main.zip // 93.31 megabytes
 
-file_39: KARBYTES_JOURNAL_2023_PART_23-main.zip // 93.31 megabytes
+file_39: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 1.91 megabytes
 
-file_40: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 1.91 megabytes
+file_40: karbytes_basement_7-main.zip // 2.31 megabytes
 
-file_41: karbytes_basement_7-main.zip // 2.31 megabytes
+file_41: KARLINA_OBJECT-main.zip // 209.63 megabytes
 
-file_42: KARLINA_OBJECT-main.zip // 209.63 megabytes
+file_42: KARLINA_OBJECT_extension_pack_3-main.zip // 363.52 megabytes
 
-file_43: KARLINA_OBJECT_extension_pack_3-main.zip // 363.52 megabytes
+file_43: KARBYTES_JOURNAL_2022_PART_4-main.zip // 0.05 megabytes
 
-file_44: KARBYTES_JOURNAL_2022_PART_4-main.zip // 0.05 megabytes
+file_44: karbytes_basement_3-main.zip // 2.53 megabytes
 
-file_45: karbytes_basement_3-main.zip // 2.53 megabytes
+file_45: KARLINA_OBJECT_extension_pack_10-main.zip // 258.38 megabytes
 
-file_46: KARLINA_OBJECT_extension_pack_10-main.zip // 258.38 megabytes
+file_46: KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.92 megabytes
 
-file_47: KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.92 megabytes
+file_47: KARLINA_OBJECT_extension_pack_7-main.zip // 41.98 megabytes
 
-file_48: KARLINA_OBJECT_extension_pack_7-main.zip // 41.98 megabytes
+file_48: KARLINA_OBJECT_extension_pack_1-main.zip // 38.77 megabytes
 
-file_49: KARLINA_OBJECT_extension_pack_1-main.zip // 38.77 megabytes
+file_49: KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.36 megabytes
 
-file_50: KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.36 megabytes
+file_50: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.35 megabytes
 
-file_51: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.35 megabytes
+file_51: KARBYTES_JOURNAL_2023_PART_8-main.zip // 5.72 megabytes
 
-file_52: KARBYTES_JOURNAL_2023_PART_8-main.zip // 5.72 megabytes
+file_52: KARBYTES_JOURNAL_2022_PART_5-main.zip // 23.94 megabytes
 
-file_53: KARBYTES_JOURNAL_2022_PART_5-main.zip // 23.94 megabytes
+file_53: RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-.zip // 0.27 megabytes
 
 file_54: karbytes_basement_6-main.zip // 1.47 megabytes
 
@@ -174,7 +174,7 @@ file_82: KARBYTES_JOURNAL_2023_PART_6-main.zip // 28.37 megabytes
 
 file_83: KARBYTES_JOURNAL_2023_PART_9-main.zip // 67.15 megabytes
 
-file_84: KARLINA_OBJECT_extension_pack_27-main_02january2025.zip // 351.41 megabytes
+file_84: KARLINA_OBJECT_extension_pack_27-main_02january2025.zip // 351.52 megabytes
 
 file_85: karbytes_basement_11-main.zip // 26.64 megabytes
 
@@ -248,6 +248,6 @@ file_118: KARBYTES_JOURNAL_2023_PART_26-main.zip // 81.69 megabytes
 
 Total number of files: 119
 
-Total folder size: 11674.51 megabytes
+Total folder size: 11674.62 megabytes
 
 --------------------------------
