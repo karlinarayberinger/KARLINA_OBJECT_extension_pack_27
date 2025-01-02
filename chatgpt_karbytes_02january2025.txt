@@ -16,6 +16,8 @@ karbytes:
 
 How long do you think the following Python program can run on my karbytes-IdeaPad-1-15IAU7 machine before the program crashes?
 
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/pi_approximation.py]
+
 ChatGPT:
 
 The program runs indefinitely by design unless interrupted by the user, a system crash, or another limiting factor. The machine's ability to sustain the program without crashing depends on several factors:
