@@ -42,7 +42,7 @@ Key Considerations:
 
 5. Heat and Throttling:
 
-    If the laptop's cooling system is insufficient or the environment is too hot, the system might throttle performance or crash due to o:verheating.
+    If the laptop's cooling system is insufficient or the environment is too hot, the system might throttle performance or crash due to overheating.
 
 Likely Runtime:
 
