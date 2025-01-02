@@ -515,7 +515,7 @@ ChatGPT:
 
         S=kBln⁡(Ω)
         
-        where kB is the Boltzmann constant and ΩΩ is the number of microstates.
+        where kB is the Boltzmann constant and Ω is the number of microstates.
 
         [karbyte: Note that, beyond the context of this plain-text passage, the 'B' in "kB" is subscript.]
 
