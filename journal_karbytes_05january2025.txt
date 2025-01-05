@@ -1,0 +1,18 @@
+/**
+ * file: journal_karbytes_05january2025.txt
+ * type: plain-text
+ * date: 05_JANUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+Between 6:00PM Pacific Standard Time on 04_JANUARY_2025 and 11:59PM Pacific Standard Time on 05_JANUARY_2025, karbytes decided to finalize (at the end of that time period) the "micro directory" (of the "macro directory" of the website named Karbytes For Life Blog dot WordPress dot Com) named KARLINA_OBJECT_extension_pack_27 and, with it, the entire (encompassing) collection of public domain and public web hosted (digital (i.e. fundamentally representable as linear sequences of the binary digits 0 and 1)) files referred to as karbytes as that collection is configured at 11:59PM Pacific Standard Time on 05_JANUARY_2025 named karbytes2025_1. 
+
+One reason why I decided to close up karbytes2025_1 relatively soon (i.e. within days of starting it rather than within weeks or months of starting it) is because I noticed some accidental file overwrites which occurred during the making of karbytes2025_0. What that means is that the M_DISCs I burned within the past week and which each store exactly one piece of data (i.e. the collection of 119 zip files named karbytes2025_0 and which are placed in a folder directory named karbytes2025_0) contain some missing or corrupted content. I intend for the next set of (at least three 25 gigabyte) M_DISCs I burn to contain zero errors and content which verbatim represents all of karbytes as that collection is configured at 11:59PM Pacific Standard Time on 05_JANUARY_2025.
+
+karbytes intends to (tentatively and for an indefinitely long time period) continue hosting its .onion websites (using the same respective dark web page addresses) from the Ubuntu laptop which is (currently) plugged into the electrical wall outlet in karbytes' room at karbytes' legal address (which is located at 4757 Mira Vista Place, Castro Valley, California 94546) and which is connected to the Internet via the Wi-Fi router in one of the larger rooms of that house. karbytes will update the .onion web page hosted at the dark web address labeled B (which is contrasted with A) on that web page such that the web page is effectively a dark web "mirror" of the next "micro directory" in the aforementioned "macro directory" (and that next "micro directory" will be named KARLINA_OBJECT_extension_pack_28).
+
+Sincerely,
+karbytes
